@@ -1,0 +1,1 @@
+<!--<a href="#" id="backtotop"><span class="fa fa-angle-up"></span><span class="back-to-top">Back to Top</span></a>-->

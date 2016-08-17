@@ -1,0 +1,18 @@
+ul.checktree-root, ul#tree ul {
+list-style: none;
+}
+ul.checktree-root label {
+font-weight: normal;
+position: relative;
+}
+ul.checktree-root label input {
+position: relative;
+top: -3px;
+left: -5px;
+}
+
+#tree_width{
+clear: both; 
+overflow: auto; 
+height: 373px;
+}
